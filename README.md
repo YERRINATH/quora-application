@@ -64,4 +64,21 @@
 - Django - Web framework
 - HTML/CSS - Front-end presentation
 - Python - Programming language
+
+
+## Outputs
+
+### Login Page:
+
+<img width="889" alt="image" src="https://github.com/YERRINATH/quora-assignment/assets/83647996/18b9d176-c888-4dea-9443-9ea093a95325">
+
+### Register Page:
+<img width="857" alt="image" src="https://github.com/YERRINATH/quora-assignment/assets/83647996/d31af79d-5a1b-419c-a2d6-551a747415bb">
+### Home Page:
+<img width="960" alt="image" src="https://github.com/YERRINATH/quora-assignment/assets/83647996/984878b9-60fc-4b6e-9dd8-f9c29fb992a3">
+### Adding Question Page:
+<img width="960" alt="image" src="https://github.com/YERRINATH/quora-assignment/assets/83647996/33bbc2a1-84d0-4789-a1f4-8fd863d22f56">
+### Questions Page:
+<img width="960" alt="image" src="https://github.com/YERRINATH/quora-assignment/assets/83647996/30791f67-0b22-486d-b1cb-2afe8bdacfd6">
+
    
